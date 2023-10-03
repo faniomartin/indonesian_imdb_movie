@@ -2,6 +2,10 @@
 
 This is a Jupyter Notebook code for IMDb Indonesia movie comic style visualization. The Internet Movie Database (IMDb) is one of the most popular and comprehensive sources of information on movies, TV shows, and other forms of visual entertainment. It contains a vast amount of data on various aspects of the entertainment industry, such as cast and crew information, release dates, ratings, reviews, and much more. In this document, we will explore some key data analytics techniques that can be used to analyze IMDb data and the insights that can be derived from them.
 
+## Blog Post
+
+https://fanio-martin.medium.com/comic-style-data-visualization-of-imdb-indonesian-movies-dfda951d5b34#d144-5f7c54331f65
+
 ## Libraries
 
 ```
@@ -35,4 +39,4 @@ The result of analysis can answer the below questions:
 
 ## Necessary Acknowledgments 
 
-Data Source reference [Kaggle] https://www.kaggle.com/datasets/dionisiusdh/imdb-indonesian-movies
+Data Source reference [Kaggle](https://www.kaggle.com/datasets/dionisiusdh/imdb-indonesian-movies).
